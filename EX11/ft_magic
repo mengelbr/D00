@@ -1,0 +1,2 @@
+file -c ~/ft_magic.txt
+file -f ~/ft_magic.txt /mengelbr/Day00/EX11/ft_magic.txt

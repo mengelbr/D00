@@ -1,0 +1,23 @@
+total 0
+drwx------@  3 mengelbr  student   102B Feb 12 15:12 Applications
+drwx------+  8 mengelbr  student   272B Feb 13 11:08 Desktop
+drwx------+  3 mengelbr  student   102B Feb 12 13:31 Documents
+drwx------+  5 mengelbr  student   170B Feb 13 10:50 Downloads
+drwxr-xr-x   2 mengelbr  student    68B Feb 12 14:39 EX00
+drwxr-xr-x   6 mengelbr  student   204B Feb 13 08:56 EX01
+drwxr-xr-x  11 mengelbr  student   374B Feb 13 08:56 EX02
+drwxr-xr-x   4 mengelbr  student   136B Feb 12 18:00 EX03
+drwxr-xr-x   4 mengelbr  student   136B Feb 13 10:45 EX04
+drwxr-xr-x   5 mengelbr  student   170B Feb 13 09:53 EX05
+drwxr-xr-x   5 mengelbr  student   170B Feb 13 11:04 EX06
+drwxr-xr-x   4 mengelbr  student   136B Feb 13 11:08 EX07
+drwxr-xr-x   2 mengelbr  student    68B Feb 13 11:04 EX08
+drwxr-xr-x   2 mengelbr  student    68B Feb 13 11:04 EX09
+drwxr-xr-x   2 mengelbr  student    68B Feb 13 11:05 EX10
+drwxr-xr-x   2 mengelbr  student    68B Feb 13 11:05 EX11
+drwx------@ 62 mengelbr  student   2.1K Feb 13 10:38 Library
+drwx------+  3 mengelbr  student   102B Feb 12 13:31 Movies
+drwx------+  4 mengelbr  student   136B Feb 12 14:30 Music
+drwx------+  3 mengelbr  student   102B Feb 12 13:31 Pictures
+drwxr-xr-x+  4 mengelbr  student   136B Feb 12 13:31 Public
+
